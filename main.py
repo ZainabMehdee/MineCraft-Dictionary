@@ -45,7 +45,7 @@ def main():
         elif choice == '0':
             break
         else:
-            print('Invalid Choice. Try again...')
+            print('Invalid Choice. Please try again...')
 
 if __name__ =='__main__':
     main()
